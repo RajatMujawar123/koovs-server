@@ -36,5 +36,43 @@
       "title": "Sweatshirts",
       "items": "13 items"
     }
+  ],
+  "shop_men": [
+    {
+      "id": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/ball_sweatshirt-01.jpg?v=1668170499&width=360",
+      "title": "Sweatshirts",
+      "items": "61 items"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/unisex_accessories-01.jpg?v=1668170734&width=360",
+      "title": "Accessories",
+      "items": "9 items"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/Untitled-6-01.jpg?v=1667985899&width=360",
+      "title": "T-Shirts",
+      "items": "66 items"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/KOOVS_20OCT22-1025.jpg?v=1667897521&width=360",
+      "title": "Jackets",
+      "items": "21 items"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/KOOVS_20OCT22-0291.jpg?v=1667985664&width=360",
+      "title": "Pants",
+      "items": "18 items"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/shortsn-01.jpg?v=1667897412&width=360",
+      "title": "Shorts",
+      "items": "27 items"
+    }
   ]
 }
