@@ -74,5 +74,67 @@
       "title": "Shorts",
       "items": "27 items"
     }
+  ],
+  "varsity-jackets":[
+    {
+      "id": 1,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM2202BLUE0361_800x_97dbc06c-0d25-4317-8084-ec6395e1f7a1.webp?v=1671193628&width=360",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM2202BLUE0368_1600x_b8d04acd-6cc4-4a03-aeb3-a7bf0a2c229e.webp?v=1677043616&width=360",
+      "title1": "THE COUTURE CLUB",
+      "title2": "Distorted Smile Varsity Jacket - Yellow",
+      "price1": 7000,
+      "price2": 10000,
+      "color": "yellow"
+    },
+    {
+      "id": 2,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/HEARTMULTIBADGEVARSITYJACKET-GREEN2_800x_deb2ced1-7f5f-4db5-b0c3-5dfa87e8432c.webp?v=1671193716&width=360",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/Selects12396_800x_jpg.webp?v=1677042743&width=360",
+      "title1": "THE COUTURE CLUB",
+      "title2": "Heart Multi Badge Varsity Jacket - Green",
+      "price1": 7000,
+      "price2": 10000,
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/T3M21-10GREEN_b_800x_07c40885-d4fb-4c9b-87bf-2863cc823c4c.jpg?v=1671193412&width=360",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/T3M21-10GREEN_d_800x_60d66828-31a2-4032-95ad-50db48a5360e.jpg?v=1677043853&width=360",
+      "title1": "THE COUTURE CLUB",
+      "title2": "College Green Varsity Bomber Jacket - Green",
+      "price1": 7420,
+      "price2": 10000,
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM1699-BLACK1012_800x_ae4006da-33a3-4045-a25f-3a102190576c.jpg?v=1671193508&width=360",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM1699-BLACK1018_800x_4b394419-e80a-4551-bfc4-b4bc53dcce79.jpg?v=1677043773&width=360",
+      "title1": "THE COUTURE CLUB",
+      "title2": "Couture Applique Varsity Bomber - Black",
+      "price1": 7000,
+      "price2": 10000,
+      "color": "black"
+    },
+    {
+      "id": 5,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/EmptyName_b_800x_38bd8e73-b704-47d2-a977-4c998cc8ec68.webp?v=1671193746&width=360",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/EmptyName_a_2667x_c73a3579-268b-4318-b350-7efb4b3000d1.webp?v=1677043645&width=360",
+      "title1": "THE COUTURE CLUB",
+      "title2": "Laurel Panelled Varsity Jacket - Purple",
+      "price1": 7000,
+      "price2": 10000,
+      "color": "purpel"
+    },
+    {
+      "id": 6,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM2131BLACK9500_800x_dcd74665-ab71-4430-8742-e965d03a282e.webp?v=1671193543&width=493",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM2131BLACK9498_800x_4c0f2989-948b-414f-9258-b5981bf60e44.webp?v=1677043674&width=360",
+      "title1": "THE COUTURE CLUB",
+      "title2": "Ctre Fur Logo Oversized Hooded Jacket - Red",
+      "price1": 7420,
+      "price2": 10000,
+      "color": "red"
+    }
   ]
 }
