@@ -520,5 +520,87 @@
       "color1": "pink",
       "color2": "red"
     }
+  ],
+  "koovs-men":[
+    {
+      "id": 1,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1533.jpg?v=1667984210&width=493",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1536.jpg?v=1677063069&width=493",
+      "title1": "Ned Joggers",
+      "title2": "A relaxed fit jogger with an elasticated",
+      "price": 1490,
+      "color1": "green",
+      "color2": "yellow"
+    },
+    {
+      "id": 2,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1704.jpg?v=1667982774&width=493",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1708.jpg?v=1677066450&width=493",
+      "title1": "Albin T-Shirt",
+      "title2": "Elevated raised neck zip up T-shirt.",
+      "price": 990,
+      "color1": "pink",
+      "color2": "green"
+    },
+    {
+      "id": 3,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1549.jpg?v=1667983172&width=493",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1555.jpg?v=1677064225&width=493",
+      "title1": "Brian T-Shirt",
+      "title2": "Basic fit round neck T-shirt with half sleeves.",
+      "price": 790,
+      "color1": "blue",
+      "color2": "green"
+    },
+    {
+      "id": 4,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1070_6d519f9c-e991-4865-ac5f-9668828464b4.jpg?v=1670001642&width=493",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1073.jpg?v=1677066827&width=493",
+      "title1": "Acer Hoodie",
+      "title2": "Elevated relaxed fit hoodie with half zip closure,",
+      "price": 1490,
+      "color1": "white",
+      "color2": "black"
+    },
+    {
+      "id": 5,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0049.jpg?v=1667984517&width=493",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0059.jpg?v=1677061640&width=493",
+      "title1": "Reuben Hoodie",
+      "title2": "A classic regular fit hoodie with adjustable",
+      "price": 1490,
+      "color1": "yellow",
+      "color2": "purpel"
+    },
+    {
+      "id": 6,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0142.jpg?v=1667984128&width=493",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0148.jpg?v=1677063344&width=493",
+      "title1": "Luke T-Shirt",
+      "title2": "Basic fit v-neck T-shirt with half sleeves.",
+      "price1": 790,
+      "price2": 1000,
+      "color": "red"
+    },
+    {
+      "id": 7,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0978.jpg?v=1677065233&width=493",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0982.jpg?v=1677065233&width=493",
+      "title1": "Curtis Sweatshirt",
+      "title2": "A classic regular fit round neck sweatshirt",
+      "price": 1290,
+      "color1": "orange",
+      "color2": "red"
+    },
+    {
+      "id": 8,
+      "image1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0444.jpg?v=1667983785&width=493",
+      "image2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0450.jpg?v=1677063752&width=493",
+      "title1": "Evan T-Shirt",
+      "title2": "Elevated v-neck T-shirt with half zip closure.",
+      "price": 990,
+      "color1": "white",
+      "color2": "red"
+    }
   ]
 }
