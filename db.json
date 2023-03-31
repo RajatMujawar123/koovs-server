@@ -1,0 +1,40 @@
+{
+  "shop_women": [
+    {
+      "id": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/tops-01_copy.jpg?v=1667987961&width=360",
+      "title": "Tops",
+      "items": "73 items"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/SBRA2-01.jpg?v=1667988040&width=360",
+      "title": "Sports Bra",
+      "items": "10 items"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/Tee-01.jpg?v=1667898427&width=360",
+      "title": "T-Shirts",
+      "items": "15 items"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/shorts_women-01.jpg?v=1667898316&width=360",
+      "title": "Shorts",
+      "items": "22 items"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/leggings-01.jpg?v=1667899318&width=360",
+      "title": "Leggings",
+      "items": "19 items"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0677/1464/6315/files/sweats_women-01.jpg?v=1667898406&width=360",
+      "title": "Sweatshirts",
+      "items": "13 items"
+    }
+  ]
+}
