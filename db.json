@@ -15,21 +15,21 @@
       "gender": "Female"
     },
     {
-      "breed": "queen",
+      "name": "queen",
       "age": "13",
       "gender": "male",
       "place": "Pune",
       "id": 3
     },
     {
-      "breed": "champ",
+      "name": "champ",
       "age": "6",
       "gender": "male",
       "place": "Mumbai",
       "id": 4
     },
     {
-      "breed": "RRR",
+      "name": "RRR",
       "age": "2",
       "gender": "male",
       "place": "Pune",
